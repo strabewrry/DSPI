@@ -1,0 +1,19 @@
+world: 6F 72 6C 64 21
+
+hello world: 68 65 6C 6C 6F 20 77
+		72 6C 64 21
+
+1-bit: 36
+24-bit: 46
+
+
+When changing the extension, the app will not open. The bytes didn't change.
+
+It cannot be changed because it is read-only.
+
+7 DISKS, DRIVES & PARTITIONS
+
+There is 1 disk. The model is SSSTC CL4-8D512. The capacity is 476 GB. Read speed:3700 MB/s.
+Write speed:2600 MB/s.
+
+There are 5 partitions in the disk. The capacity for the first is 260 MB, and it contains only data. For the second, the capacity is 850 MB, and it has only data. For the third, it is 16.72 GB and the backup is in there. For the fourth, it is 1.00 GB, the OS is in there. For the fifth, the main one [ C: ], the capacity is 4.58.12 GB, and files, documents, videos, and games are there.

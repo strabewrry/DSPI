@@ -1,0 +1,14 @@
+4 COMPONENT IDENTIFICATION
+	1. The CPU model is 13th Gen Intel(R) Core(TM) i7-1355U. There are 10 cores, and the core speed is 1.71 GHz.
+	2. The type of RAM is LPDDR4x. The model is not visible anywhere. The capacity is 16GB. The speed is 4267 MT/s.
+	3. The GPU type is Intel(R) Iris(R) Xe Graphics. The RAM dedicated towards the iGPU is 0.8 GB.
+	4.The BIOS version is 3.6, last updated 8-Feb-2025.
+
+5 BOOT ORDER
+	The computer can't currently boot from a USB disk.
+
+6 SCREEN RESOLUTION
+	The screen resolution is 1920 x 1080. I would put it on portrait mode in case if using another monitor that fits the size. When changing the resolution to 800 x 600, everything shrinks and is harder to see anything.
+
+7 MONITOR HARDWARE
+

@@ -1,0 +1,35 @@
+4 IP ADDRESS, ROUTING & WEBREQUESTS
+1.
+	IP: 145.118.236.136
+	IPv4 is the same.
+	Default Gateway: 145.118.236.1
+
+2.
+	No changes, because it is connected to the university network.
+	
+3. 
+	My IP is public, same with the gateway.
+
+4. 
+	city: Leiden
+	region: South Holland
+	country: NL
+	loc: 52.1583,4.4931
+	org: AS1103 SURF B.V.
+	postal: 2311
+	time zone: Europe\Amsterdam
+
+5. 
+	Both IPs are very similar, and seem to be close together.
+
+6.
+	ip: 142.251.36.3
+	hostname: ams15s44-in-f3.1e100.net
+	city: Amsterdam
+	region: North Holland
+	country: NL
+	loc: 52.3740,4.8897
+	org: AS15169 Google LLC
+	postal: 1012
+	time zone: Europe/Amsterdam
+

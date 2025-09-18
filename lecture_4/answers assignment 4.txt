@@ -1,0 +1,16 @@
+5 DEVICE DRIVERS
+	182 active drivers.
+
+	wifi:
+	C:\\WINDOWS\system32\DRIVERS\netwfw14.dat
+	C:\\WINDOWS\system32\DRIVERS\Netwtw14.sys
+	C:\\WINDOWS\system32\IntellHVRouter14.dll
+	netvwifibus.inf_amd64_ab4e111fe8221178\vwifibus.sys
+
+	network:
+	rt68cx21x64.inf_amd64_81b332badcdcaabe\rt68cx21x64.sys
+
+6.2 FIND ACTIVE PROCESS LOCATIONS
+	C:\Program Files\Google\Chrome\Application\chrome.exe
+
+	
